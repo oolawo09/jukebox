@@ -1,9 +1,9 @@
-#evnt
+#jukebox
 
 
 ##to run the server
 go into /executable
-run the ./events
+run the ./jukebox
 
 ##endpoints
 
